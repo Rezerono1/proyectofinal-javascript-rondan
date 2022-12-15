@@ -1,0 +1,90 @@
+body {
+    margin: 15px 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.formulario {
+    background-color: transparent;
+    border-width: 0px 0px 1px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-radius: 0px;
+    box-sizing: border-box;
+    color: rgb(17, 17, 17);
+    caret-color: currentcolor;
+    display: block;
+    margin: 15px 15px;
+    padding: 8px 0px;
+    text-align: left;
+    outline: none;
+    width: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    --inputCurrentColor: #111111;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+
+.boton {
+    margin: 15px 15px;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 6.25rem;
+    background-color: #B5BFA1;
+    border-color: none;
+    transition: all 0.5s;
+    }
+
+.boton1 {
+    margin: 15px 15px;
+    border: none;    
+    padding: 15px 20px;    
+    border-radius: 6.25rem;    
+    background-color: #6E9887;    
+    border-color: none;    
+    transition: all 0.5s;        
+    }
+
+.seleccion {
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    background-color: transparent;
+    border-width: 0px 0px 1px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-radius: 0px;
+    box-sizing: border-box;
+    color: rgb(17, 17, 17);
+    caret-color: currentcolor;
+    display: block;
+    margin: 15px 15px;
+    padding: 8px 0px;
+    text-align: left;
+    outline: none;
+    width: 50%;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    --inputCurrentColor: #111111;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+img {
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    transition: all 0.5s;
+    
+}

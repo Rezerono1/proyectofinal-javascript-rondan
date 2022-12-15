@@ -1,0 +1,31 @@
+[
+
+    {
+        "habitacionParis": 1 ,
+        "nombre": "Acomodacion doble en Paris",
+        "ciudad":"Paris",
+        "acomodacion":2,
+        "precio": 100,
+        "habitacionesDisponibles":10    
+    },
+
+    {
+        "habitacionParis": 2 ,
+        "nombre": "Acomodacion triple en Paris",
+        "ciudad":"Paris",
+        "acomodacion":3,
+        "precio": 130,
+        "habitacionesDisponibles":5    
+    },
+
+    {
+        "habitacionParis": 3 ,
+        "nombre": "Acomodacion familiar en Paris",
+        "ciudad":"Paris",
+        "acomodacion":4,
+        "precio": 150,
+        "habitacionesDisponibles":5    
+    }
+
+
+]
